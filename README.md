@@ -37,4 +37,8 @@ frontend/modules/api (API Module)
     models/              contains API specific model classes
 ```
 
+SCREENSHOT
+-------------------
+![Worksample-1](worksample-1.png)
+     
 **Note: Only required files are provided to review code and structure for security purpose, API doc is also anonymized for keys and their values **
